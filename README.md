@@ -1,5 +1,14 @@
 # BTCPay Server
 
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 ![BTCPay Server](BTCPayServer/wwwroot/img/btc_pay_BG_twitter.png)
 
 <h3 align="center">
