@@ -293,9 +293,13 @@ The BTCPay Server Project is proudly supported by these entities through the [BT
   </tbody>
 </table>
 
-If you'd like to support the project, please visit the donation:
 
 ----
+
+
+If you'd like to support the project, please visit the donation:
+
+
 
 |  | Donation Address |
 | --- | --- |
